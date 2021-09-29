@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/klara-pavlov/launch-countdown-timer-solution](https://github.com/klara-pavlov/launch-countdown-timer-solution)
-- Live Site URL: [https://launch-countdown-timer-solution-klara-pavlov-2021.netlify.app/](https://launch-countdown-timer-solution-klara-pavlov-2021.netlify.app/)
+- Solution URL: [https://github.com/klara-pavlov/rest-countries-api-with-color-theme-switcher-master](https://github.com/klara-pavlov/rest-countries-api-with-color-theme-switcher-master)
+- Live Site URL: [https://rest-countries-api-with-color-theme-switcher-master-klara-pavlov-2021.netlify.app/](https://rest-countries-api-with-color-theme-switcher-master-klara-pavlov-2021.netlify.app/)
 
 ## My process
 
